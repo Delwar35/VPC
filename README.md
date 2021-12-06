@@ -43,6 +43,9 @@ A network access control list (NACL) is an optional layer of security for your V
 
 **Difference between statless and stateful (NACLs vs Security Groups)**
 
+The key difference between stateful and stateless applications is that stateless applications don’t “store” data whereas stateful applications require backing storage.
+Stateful applications like the Cassandra, MongoDB and mySQL databases all require some type of persistent storage that will survive service restarts.
+
 ![image](https://user-images.githubusercontent.com/94615905/144837456-d20d14fc-98f7-493b-ac28-e2413d3ffa83.png)
 
 **VPC Diagram**
