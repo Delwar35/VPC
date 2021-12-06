@@ -1,6 +1,6 @@
 # VPC
 
-**What is CIDR (Classless Inter-Domain Routing) Block **
+**What is CIDR (Classless Inter-Domain Routing) Block**
 
 CIDR block a method for allocating IP addresses and IP routing in the VPC. The IP can be IPv4 or IPv6 format. 
 
@@ -41,7 +41,7 @@ A VPC can have  upto 200 subnets.
 
 A network access control list (NACL) is an optional layer of security for your VPC that acts as a firewall for controlling traffic in and out of one or more subnets. You might set up NACLs with rules similar to your security groups in order to add an additional layer of security to your VPC
 
-**Difference between statless and stateful (NACLs vs Security Groups)
+**Difference between statless and stateful (NACLs vs Security Groups)**
 ![image](https://user-images.githubusercontent.com/94615905/144837456-d20d14fc-98f7-493b-ac28-e2413d3ffa83.png)
 
 
