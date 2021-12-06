@@ -45,7 +45,7 @@ A network access control list (NACL) is an optional layer of security for your V
 
 ![image](https://user-images.githubusercontent.com/94615905/144837456-d20d14fc-98f7-493b-ac28-e2413d3ffa83.png)
 
-**Diagram OF VPC with Components**
+**VPC Diagram**
 
 ![image](https://user-images.githubusercontent.com/94615905/144837807-51986f9a-677c-44b0-89e0-ff4d8a3bb078.png)
 
